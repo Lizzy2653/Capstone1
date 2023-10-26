@@ -1,0 +1,14 @@
+
+    Date      |  Time     | Descriptions       | Vendor  | Amount
+    2023-04-15 | 10:13:25 | ergonomic keyboard | Amazon  | -89.50
+    2023-04-15 | 11:15:00 | Invoice 1001 paid  | Joe     | 1500.00
+}
+public class Transaction {
+
+public String date ("2023-04-15");
+public String time ("10:13:25");
+public String description ("ergonomic keyboard");
+public String vendor ("Amazon");
+public double Amount (-89.50");
+
+}

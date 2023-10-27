@@ -5,7 +5,8 @@ It serves as the starting point for users and provides an overview of their
 financial data and options to access various features. 
 
  Ledger The Ledger section is where users can manage their financial records.
- It typically includes features such as: - Adding new financial entries (income and expenses). 
+ It typically includes features such as:
+ - Adding new financial entries (income and expenses). 
  - Viewing and editing existing entries. - Categorizing transactions.
  - Generating transaction history reports.
    Search and filter functionality for transactions.
